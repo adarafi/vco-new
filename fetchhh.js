@@ -43,7 +43,7 @@ const functionGetOtp = (email) => new Promise((resolve, reject) => {
                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
                'accept-encoding': 'gzip, deflate, br',
                'accept-language': 'en-US,en;q=0.9',
-               'cookie': `_ga=GA1.2.84181753.1641255013; _gid=GA1.2.497954959.1641255013; _gat=1; __gads=ID=6a598a71dc6f00d1-22b1c0aaa0cf0077:T=1641255014:RT=1641255014:S=ALNI_MYIllssjA2gGLqbvfDcpDtvLSJA_A; surl=ririsbeautystore.com%2F${email}`,
+               'cookie': `_ga=GA1.2.367291764.1619492331; _gid=GA1.2.1707974869.1641114758; embx=["${email}@gmailya.com"]; surl=gmailya.com%2F${email}`,
                'sec-fetch-mode': 'navigate',
                'sec-fetch-site': 'same-origin',
                'upgrade-insecure-requests': 1,
