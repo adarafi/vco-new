@@ -1,0 +1,26 @@
+{
+  "name": "lunar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "delay": "^5.0.0",
+    "fs-extra": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "random-name": "^0.1.2",
+    "randomatic": "^3.1.1",
+    "randomstring": "^1.2.1",
+    "readline-sync": "^1.4.10",
+    "settimeout-promise": "^1.0.0",
+    "timer": "^1.0.1",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.6.1"
+  }
+}
